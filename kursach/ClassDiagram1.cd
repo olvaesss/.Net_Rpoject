@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursach.AdminClass" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAgQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.ApplicationContext" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.ManagerClass" Collapsed="true">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgACAAAAQAAAAIAAAACAAAAAACAAAAIAACAAA=</HashCode>
+      <FileName>Model\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.User" Collapsed="true">
+    <Position X="2.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAgAAAAAAAAAQAAAAAAAACAgACIAAAAAA=</HashCode>
+      <FileName>Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Zakaz" Collapsed="true">
+    <Position X="6" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAgAAAAAAIAAgAAAAAAAAAAQAAIACAAAA=</HashCode>
+      <FileName>Model\Zakaz.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.AddManager" Collapsed="true">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAICAQCBgAAACAAAICAAEAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>AddManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.AdminForm" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAiAAAAAEAACAAAgSwAIIAAAAIAAAAgAABIA=</HashCode>
+      <FileName>AdminForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.CloseOFFER" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQAAQCAQABgAAACAAAACAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CloseOFFER.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.DeleteManager" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQAAQCAQABgAAACAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeleteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.DeleteUser" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAQAAQCAAABAAAACAAAACAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeleteUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.GivePrice" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAQAAQCAQABgAAACAAAACAAAAQAAAAAAAQAAAAAA=</HashCode>
+      <FileName>GivePrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Login" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAICAAABgAAACAAAACAAAoAAAAAGQAAAAAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Main" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkAgAAAAAKAAAAAAAEDBAAAKQAAAABABIAgBAkAAAAA=</HashCode>
+      <FileName>Main.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.ManagerForm" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIAACAQAAQAAACAAAACQAAAAAAAICAAQAACCAA=</HashCode>
+      <FileName>ManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.ManagerLogin" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAICAQABgAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManagerLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Program" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.Register" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAQICAACBAAAACAACICAAAAAAAAAAAAAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursach.ValidattionFunc" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ValidationFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
